@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 15:01 IR
+- 📱 [VaydnsVpn-v1.7.8-arm64-v8a.apk](https://github.com/betoche36/sandbox/raw/main/dl/VaydnsVpn-v1.7.8-arm64-v8a.apk) `10.4MB`
+
+---
+
+
 ### 📅 2026-04-30 13:39 IR
 - 📱 [MasterDnsVPN-GG-1.0.9-armeabi-v7a.apk](https://github.com/betoche36/sandbox/raw/main/dl/MasterDnsVPN-GG-1.0.9-armeabi-v7a.apk) `12.6MB`
 
