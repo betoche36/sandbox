@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 06:58 IR
+- 📱 [masterdnsvpn-HN-1.2.2-arm64-v8a.apk](https://github.com/betoche36/sandbox/raw/main/dl/masterdnsvpn-HN-1.2.2-arm64-v8a-release.apk) `10.0MB`
+
+---
+
+
 ### 📅 2026-05-02 01:17 IR
 - 📱 [thefeed-android-v0.13.4-arm64.apk](https://github.com/betoche36/sandbox/raw/main/dl/thefeed-android-v0.13.4-arm64.apk) `8.0MB`
 
