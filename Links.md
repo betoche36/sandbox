@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 12:46 IR
+- 📱 [masterdnsvpn-HN-1.2.2-armeabi-v7a.apk](https://github.com/betoche36/sandbox/raw/main/dl/masterdnsvpn-HN-1.2.2-armeabi-v7a-release.apk) `10.2MB`
+
+---
+
+
 ### 📅 2026-05-03 12:16 IR
 - 📱 [MasterDnsVPN-GG-1.0.5-armeabi-v7a.apk](https://github.com/betoche36/sandbox/raw/main/dl/MasterDnsVPN-GG-1.0.5-armeabi-v7a.apk) `12.3MB`
 
